@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <id>1</id>
+    <firstname>Saka Nano </firstname>
+    <lastname>Suta</lastname>
+    <address>Purworejo</address>
+  </user>
+  <user>
+    <id>2</id>
+    <firstname>Haidar</firstname>
+    <lastname>Lucky</lastname>
+    <address>Jaranan</address>
+  </user>
+  <user>
+    <id>3</id>
+    <firstname>Dian</firstname>
+    <lastname>Rosita</lastname>
+    <address>Gulon</address>
+  </user>
+  <user>
+    <id>4</id>
+    <firstname>Andi</firstname>
+    <lastname>Gaffar</lastname>
+    <address>Magelang</address>
+  </user>
+  <user>
+    <id>5</id>
+    <firstname>Raden</firstname>
+    <lastname>Luhung</lastname>
+    <address>Kemiri</address>
+  </user>
+  
+</users>
